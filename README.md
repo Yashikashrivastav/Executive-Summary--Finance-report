@@ -1,4 +1,4 @@
-# Executive-Summary--Finance-report
+# Executive-Summary-Finance-report
 
 - Overview- Welcome to our Finance Report Project, where data-driven insights pave the path to strategic excellence. Through meticulous analysis of sales data, we uncover the hidden gems that propel businesses forward.
 
